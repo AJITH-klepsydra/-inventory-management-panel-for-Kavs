@@ -1,0 +1,1 @@
+# KAVS Inventory management tool.
