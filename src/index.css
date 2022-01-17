@@ -10,3 +10,9 @@
     @apply bg-opacity-50;
   }
 }
+.react-calendar {
+  width: 100% !important;
+  margin: 25px !important;
+
+  border-radius: 20px;
+}

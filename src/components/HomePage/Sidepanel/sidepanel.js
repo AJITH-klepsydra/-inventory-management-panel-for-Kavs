@@ -35,7 +35,7 @@ export const SidePanel = (props) => {
 
   return (
     <div
-      className={`bg-primary lg:fixed lg:h-screen w-full lg:w-16  ${
+      className={`bg-primary lg:fixed lg:h-screen w-full lg:w-16 z-50 ${
         location.pathname === ROUTES.login && " hidden "
       }`}
     >
